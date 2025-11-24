@@ -59,6 +59,8 @@ Repo: https://github.com/morpheus1358/JazzAndFrankSinatra
 ---
 
 ## Contact
-Email: **emreisikgor1358@gmail.com**  
+Email: emreisikgor1358@gmail.com
+
+Itch.io : https://morpheus1358.itch.io 
+
 LinkedIn: https://www.linkedin.com/in/emre-isikgor-6a0b77398/
-Ithc.io : https://morpheus1358.itch.io
