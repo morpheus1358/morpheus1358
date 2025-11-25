@@ -13,7 +13,7 @@ I enjoy building gameplay systems, designing boss mechanics, and developing clea
 - Multi-phase boss AI and attack patterns  
 - Telegraph systems and responsive combat design  
 - Custom hitbox, iframe and movement logic  
-- Pixel-art effects and game feel improvements  
+- AI only art effects and game feel improvements  
 *The main game code is private due to a planned future Steam release.*  
 Boss videos:  
 - Ribstribitis → https://youtu.be/zcxbTF4a0Ac  
