@@ -9,12 +9,12 @@ I enjoy building gameplay systems, designing boss mechanics, and developing clea
 
 ## Featured Projects
 
-### HearthWound — 2D Bullet-Hell Soulslike Boss Prototype (Unity)
+### Greedling: 2D Boss Rush (Unity)
 - Multi-phase boss AI and attack patterns  
 - Telegraph systems and responsive combat design  
 - Custom hitbox, iframe and movement logic  
 - AI only art effects and game feel improvements  
-*The main game code is private due to a planned future Steam release.*  
+*The main game code is private, and the Game is released on Steam.*  
 You can play my game through here:
 https://kaanka.itch.io/hearth-wound
 
