@@ -16,6 +16,7 @@ I enjoy building gameplay systems, designing boss mechanics, and developing clea
 - AI only art effects and game feel improvements  
 *The main game code is private, and the Game is released on Steam.*
 https://store.steampowered.com/app/4247380/Greedling_2D_Boss_Rush/
+
 You can play my game's demo through here:
 https://kaanka.itch.io/hearth-wound
 
